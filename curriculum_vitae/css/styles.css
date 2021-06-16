@@ -1,0 +1,75 @@
+header {
+  background: #e6e6e6;
+}
+#photo {
+  display: block;
+  margin: auto;
+  height: 147px;
+}
+
+#title {
+  background: #c4c4c4;
+  color: #005677;
+  width: 100%;
+  height: 60px;
+  top: 188px;
+  text-align: center;
+  align-items: center;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 84.69%;
+  font-feature-settings: "cpsp" on;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.listas {
+  width: 1041px;
+  font-family: Times New Roman;
+  font-style: normal;
+  margin: auto;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.lista_data_persona {
+  font-family: Times New Roman;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.title-sections {
+  height: 30px;
+  width: 1041px;
+  background: #c4c4c4;
+  color: #005677;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 84.69%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+#footer {
+  color: #ffffff;
+  background: #005677;
+  height: 37px;
+  margin: auto;
+  float: left;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
